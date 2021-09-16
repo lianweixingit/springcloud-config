@@ -1,2 +1,5 @@
+server:
+  port: 3355
+
 config:
   info: master springcloud-config/config-dev.yml version = 5
